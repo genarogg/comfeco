@@ -9,7 +9,7 @@
   Team React #59
 </h1>
 
-_Link del proyecto_ <a href="https://comfeco-react-59.herokuapp.com">ver.</a>
+_Link del proyecto_ <a href="https://comfeco3.herokuapp.com/">ver.</a>
 
 ----
 
